@@ -1,6 +1,7 @@
 # AI/Machine Learning Engineer's Resources
 
 # Additional The Best Matterials
+- [Books from MIT](https://docs.google.com/document/d/1ZiLhtF1wgNqtjs_U3yAzpr2_ABbrbDY_cY36qnpJFIE/edit?tab=t.0)
 - [Articles and summarized topics from famous courses ](https://aman.ai/)
 - [Nvidia Free Courses](https://sp-events.courses.nvidia.com/dli-india25?ncid=ref-inpa-419622)
 - [Free Books Website](https://ad0x99.notion.site/)
