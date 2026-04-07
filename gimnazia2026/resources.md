@@ -14,6 +14,9 @@
  
 - **3Blue1Brown** — მათემატიკური ინტუიცია
   https://www.youtube.com/@3blue1brown
+
+- **GAIA AI Lessons** — Georgian AI Course
+  https://www.youtube.com/watch?v=XNxX7xQZAuM&list=PL5PFQITWvGrdssEHIIe4CS7CWHNnSEXp9
  
 ---
  
